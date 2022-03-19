@@ -1,2 +1,2 @@
 # SentimentalAnaylsis
-For assignment 1
+For assignment 2 of sda 250
