@@ -1,2 +1,6 @@
-# SentimentalAnaylsis
-For assignment 2 of sda 250
+# SentimentalAnaylsis Project
+
+Groups of 3
+
+Basic Sentimental Anaylsis
+
