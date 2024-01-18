@@ -2,6 +2,5 @@
 
 Groups of 3
 
-Basic Sentimental Analysis using python 
-web scraping using python  
+Basic Sentimental Analysis and web scraping using Python  
 
